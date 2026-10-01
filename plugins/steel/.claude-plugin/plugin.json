@@ -1,0 +1,23 @@
+{
+  "name": "steel",
+  "displayName": "Steel pipelines",
+  "version": "1.0.0",
+  "description": "Staged, resumable Claude Code pipelines for tech leads: ticket implementation, diff-scoped self-review, API docs with drift detection, and test setup. Every stage leaves a reviewable artifact; nothing is ever committed for you.",
+  "author": {
+    "name": "Trương Tấn Khánh",
+    "url": "https://github.com/truongtankhanh"
+  },
+  "homepage": "https://github.com/truongtankhanh/claude-code-pipelines",
+  "repository": "https://github.com/truongtankhanh/claude-code-pipelines",
+  "license": "MIT",
+  "keywords": [
+    "pipelines",
+    "code-review",
+    "api-docs",
+    "testing",
+    "nestjs",
+    "angular",
+    "react",
+    "tech-lead"
+  ]
+}

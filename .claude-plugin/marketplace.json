@@ -1,0 +1,16 @@
+{
+  "name": "truongtankhanh",
+  "description": "Claude Code plugins by Trương Tấn Khánh — staged engineering pipelines for tech leads.",
+  "owner": {
+    "name": "Trương Tấn Khánh",
+    "url": "https://github.com/truongtankhanh"
+  },
+  "plugins": [
+    {
+      "name": "steel",
+      "source": "./plugins/steel",
+      "description": "Staged, resumable pipelines: implement a ticket, self-review a diff, document an API with drift detection, set up tests.",
+      "version": "1.0.0"
+    }
+  ]
+}
