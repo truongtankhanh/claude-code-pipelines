@@ -9,7 +9,7 @@
   },
   "homepage": "https://github.com/truongtankhanh/claude-code-pipelines",
   "repository": "https://github.com/truongtankhanh/claude-code-pipelines",
-  "license": "MIT",
+  "license": "CC-BY-ND-4.0",
   "keywords": [
     "pipelines",
     "code-review",

@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/truongtankhanh/claude-code-pipelines/actions/workflows/ci.yml/badge.svg)](https://github.com/truongtankhanh/claude-code-pipelines/actions/workflows/ci.yml)
 ![Claude Code plugin](https://img.shields.io/badge/Claude_Code-plugin-D97757)
-![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+![License: CC BY-ND 4.0](https://img.shields.io/badge/license-CC_BY--ND_4.0-lightgrey)
 
 Staged, resumable [Claude Code](https://code.claude.com) pipelines for engineers who review what
 their AI tools do. Each job is split into **understand → plan → change → prove**; every stage
@@ -106,4 +106,6 @@ See [CHANGELOG.md](CHANGELOG.md) for what has shipped.
 
 ## License
 
-[MIT](LICENSE) © Trương Tấn Khánh
+[CC BY-ND 4.0](LICENSE) © Trương Tấn Khánh — you may use and share this work unchanged, with
+attribution; distributing modified versions is not permitted. Releases up to and including 1.0.0
+remain under the MIT License.
